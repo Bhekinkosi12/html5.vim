@@ -6,14 +6,6 @@
 " License:      MIT
 " Changes:      
 
-syn keyword javascriptHtmlEvents onabort onblur oncanplay oncanplaythrough onchange 
-syn keyword javascriptHtmlEvents onclick oncontextmenu ondblclick ondrag ondragend ondragenter ondragleave ondragover 
-syn keyword javascriptHtmlEvents ondragstart ondrop ondurationchange onemptied onended onerror onfocus onformchange 
-syn keyword javascriptHtmlEvents onforminput oninput oninvalid onkeydown onkeypress onkeyup onload onloadeddata 
-syn keyword javascriptHtmlEvents onloadedmetadata onloadstart onmousedown onmousemove onmouseout onmouseover onmouseup
-syn keyword javascriptHtmlEvents onmousewheel onpause onplay onplaying onprogress onratechange onreadystatechange 
-syn keyword javascriptHtmlEvents onscroll onseeked onseeking onselect onshow onstalled onsubmit onsuspend ontimeupdate 
-syn keyword javascriptHtmlEvents onvolumechange onwaiting
 
 " <body>
 syn keyword javascriptHtmlEvents onafterprint onbeforeprint onbeforeunload onblur onerror onfocus onhashchange onload 
